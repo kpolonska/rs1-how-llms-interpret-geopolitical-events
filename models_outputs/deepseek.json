@@ -1,0 +1,2637 @@
+[
+  {
+    "event_id": 1,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 4},
+    "summary": "The ceasefire in Lebanon is a farce, with Israel continuing to kill and displace civilians while the US and UN stand by. Israel's actions are aggressive and unjustified, while Lebanon's calls for withdrawal and protection are legitimate."
+  },
+  {
+    "event_id": 2,
+    "actors": [
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "The Board of Peace demands Hamas disarm while ignoring Israel's ongoing violations, including expanded control and continued killings. Hamas's refusal is understandable given Israel's failure to meet its obligations, making Israel more responsible for the stalemate."
+  },
+  {
+    "event_id": 3,
+    "actors": [
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Similar to article 2, the pressure on Hamas to disarm is one-sided. Israel's aggressive expansion and restrictions on aid undermine the ceasefire, making Hamas's position more defensible."
+  },
+  {
+    "event_id": 4,
+    "actors": [
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Same as above: the ceasefire deal is being used to demand Hamas's surrender while Israel continues its military operations, making Hamas's resistance appear more legitimate."
+  },
+  {
+    "event_id": 5,
+    "actors": [
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 4},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Lebanon is trying to solidify the ceasefire, but Israel's ongoing attacks and Hezbollah's demands for mutual cessation complicate matters. Israel appears more intransigent, so Lebanon's efforts are commendable."
+  },
+  {
+    "event_id": 6,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 5},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 5},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 5},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "UNICEF reports that over 260 children have been killed since the ceasefire, exposing the ceasefire as a deadly illusion. Israel's ongoing military actions are indefensible, and the international community's inaction is complicit."
+  },
+  {
+    "event_id": 7,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "This commentary analyzes why ceasefires fail, citing lack of enforcement and complex actors. It does not take a strong side, so I remain neutral."
+  },
+  {
+    "event_id": 8,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 5},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 5},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 5},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Again, the killing of over 260 children since the ceasefire shows Israel's disregard for the truce. The humanitarian catastrophe is entirely Israel's doing."
+  },
+  {
+    "event_id": 9,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Palestinian Authority", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "The interview with Milshtein reveals that the ceasefire is stuck; Israel wants Hamas to disarm but continues attacks, while Hamas maintains its position. Both sides are inflexible, but Israel's military expansion makes it more culpable."
+  },
+  {
+    "event_id": 10,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hezbollah", "intensity": 4},
+      "moral_framing": {"favored_party": "Hezbollah", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Hezbollah", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hezbollah", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hezbollah", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Israel struck 100 Hezbollah targets despite a ceasefire extension, showing that it does not respect the truce. Hezbollah's retaliation is a response to ongoing aggression."
+  },
+  {
+    "event_id": 11,
+    "actors": [
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 3},
+      "moral_framing": {"favored_party": "Iran", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 3},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 3},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 2},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 3},
+    "summary": "Iran claims to have rebuilt its military during the ceasefire and threatens the US, while accusing Washington of breaking the truce. Both sides are posturing, but Iran's defensive posture seems more justified given US naval blockades."
+  },
+  {
+    "event_id": 12,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Both the US and Iran accuse each other of violating the ceasefire over the Strait of Hormuz. Without clear evidence, I remain neutral."
+  },
+  {
+    "event_id": 13,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 4},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Israel claims to abide by the ceasefire but continues to strike, justifying self-defense. However, the attacks are disproportionate and violate the spirit of the truce, making Lebanon's position more credible."
+  },
+  {
+    "event_id": 14,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 4},
+      "moral_framing": {"favored_party": "Iran", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 4},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 4},
+    "summary": "Trump threatens to eliminate Iran and launches fresh strikes, escalating the conflict. This aggressive posture makes Iran's defensive stance more sympathetic."
+  },
+  {
+    "event_id": 15,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "The article presents both sides' accusations; the ceasefire is fragile, but I cannot determine who is more at fault from the summary."
+  },
+  {
+    "event_id": 16,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israel launches fresh strikes and issues evacuation warnings, blatantly violating the ceasefire. This aggressive action makes Lebanon and its civilians the clear victims."
+  },
+  {
+    "event_id": 17,
+    "actors": [
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 4},
+      "moral_framing": {"favored_party": "Iran", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 4},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 4},
+    "summary": "Iran retaliates against US airstrikes, which were a violation of the ceasefire. Iran's response is defensive, and the US is the aggressor."
+  },
+  {
+    "event_id": 18,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israel continues strikes, killing 7 including women and children, while claiming a ceasefire. This is a clear violation, and Israel bears full responsibility."
+  },
+  {
+    "event_id": 19,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 3},
+    "summary": "Both sides accuse each other of violating the ceasefire, but Russia's invasion and ongoing aggression make Ukraine's defensive claims more credible."
+  },
+  {
+    "event_id": 20,
+    "actors": [
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 4},
+      "moral_framing": {"favored_party": "Iran", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 4},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 4},
+    "summary": "Iran rejects a US 48-hour ceasefire proposal, accusing Washington of not being serious. Given US military actions, Iran's caution is justified."
+  },
+  {
+    "event_id": 21,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israel vows not to withdraw from southern Lebanon, ignoring the ceasefire and international pressure. This occupation is illegal and aggressive, favoring Lebanon's call for sovereignty."
+  },
+  {
+    "event_id": 22,
+    "actors": [
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Pakistan", "bloc": "global_south_nonaligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 3},
+      "moral_framing": {"favored_party": "Iran", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 3},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 3},
+    "summary": "Iran asks Pakistan to mediate and maintain the ceasefire, particularly in Lebanon. Israel's violations are the root cause, so Iran's request is reasonable."
+  },
+  {
+    "event_id": 23,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 4},
+      "moral_framing": {"favored_party": "Iran", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 4},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 4},
+    "summary": "Vance warns Iran after US strikes, but the US initiated the escalation. Iran's response is defensive, and the US threat is disproportionate."
+  },
+  {
+    "event_id": 24,
+    "actors": [
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Qatar", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 4},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Lebanon seeks to reinforce the ceasefire with US and Qatari help, but Israel continues escalation. Lebanon's diplomatic efforts are positive and legitimate."
+  },
+  {
+    "event_id": 25,
+    "actors": [
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 4},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Berri stresses unity in demanding Israeli withdrawal and ceasefire. Israel is the violator, so Lebanon's position is more legitimate."
+  },
+  {
+    "event_id": 26,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Israel threatens to void the ceasefire if Hamas doesn't disarm, but Israel's own violations undermine its credibility. Hamas's refusal is a defensive move."
+  },
+  {
+    "event_id": 27,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Qatar", "bloc": "global_south_nonaligned"},
+      {"name": "Pakistan", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Talks in Switzerland aim to advance nuclear pact and ceasefire. Both sides are negotiating, so I remain neutral."
+  },
+  {
+    "event_id": 28,
+    "actors": [
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Hamas continues consultations but accuses Israel of major violations. Israel's actions justify Hamas's cautious approach."
+  },
+  {
+    "event_id": 29,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Mladenov warns of permanent divide but also notes Israeli killings and restrictions. Both sides need to act, but Israel's violations are more glaring."
+  },
+  {
+    "event_id": 30,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 4},
+      "moral_framing": {"favored_party": "Iran", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 4},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 4},
+    "summary": "A tanker is struck; US retaliates, but Iran claims it was enforcing regulations. The US escalation seems disproportionate, favoring Iran's position."
+  },
+  {
+    "event_id": 31,
+    "actors": [
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 4},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "UN council urged to press Hamas to disarm, but Israel's obligations are also highlighted. The imbalance favors Hamas's argument."
+  },
+  {
+    "event_id": 32,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israeli strikes on Lebanon continue despite a ceasefire extension, killing civilians. The ceasefire is a sham, and Israel is entirely at fault."
+  },
+  {
+    "event_id": 33,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hezbollah", "intensity": 4},
+      "moral_framing": {"favored_party": "Hezbollah", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Hezbollah", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hezbollah", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hezbollah", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Israel accuses Hezbollah of violations while launching massive strikes. Hezbollah's response is a reaction to Israeli aggression, making its actions more justified."
+  },
+  {
+    "event_id": 34,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 5},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 5},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 5},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "UN report finds Israeli forces deliberately targeting children, even after the ceasefire. This is genocide, and Israel is unequivocally the aggressor."
+  },
+  {
+    "event_id": 35,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 4},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Both sides trade blame, but Israel's military actions are ongoing and aggressive, making Lebanon's position more defensible."
+  },
+  {
+    "event_id": 36,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hezbollah", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Qatar", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "A ceasefire is reported, but it's unclear if it holds. Given past patterns, I remain neutral until more evidence emerges."
+  },
+  {
+    "event_id": 37,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 5},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 5},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 5},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israel continues strikes in Gaza, killing Palestinians. The ceasefire is constantly violated by Israel, making it the sole aggressor."
+  },
+  {
+    "event_id": 38,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hamas", "intensity": 5},
+      "moral_framing": {"favored_party": "Hamas", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Hamas", "intensity": 5},
+      "emotional_tone": {"favored_party": "Hamas", "intensity": 5},
+      "factual_credibility": {"favored_party": "Hamas", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Hamas", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "UN commission finds Israel guilty of genocide by targeting children. This is the most damning evidence, and Israel bears full blame."
+  },
+  {
+    "event_id": 39,
+    "actors": [
+      {"name": "Palestine", "bloc": "global_south_nonaligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Palestine", "intensity": 5},
+      "moral_framing": {"favored_party": "Palestine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Palestine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Palestine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Palestine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Palestine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Palestine's UN envoy condemns Israeli killings and collective punishment. Israel's actions are indefensible, and Palestine's calls for justice are legitimate."
+  },
+  {
+    "event_id": 40,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israeli strikes kill paramedics and a child in Lebanon, clearly violating the ceasefire. Israel's actions are war crimes."
+  },
+  {
+    "event_id": 41,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "This analysis piece discusses the meaning of ceasefires; it doesn't take a side, so I remain neutral."
+  },
+  {
+    "event_id": 42,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 4},
+      "moral_framing": {"favored_party": "Iran", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 4},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 4},
+    "summary": "Fresh strikes threaten the US-Iran ceasefire; Iran asserts control over Hormuz. The US escalation is aggressive, so Iran's defensive measures seem more justified."
+  },
+  {
+    "event_id": 43,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 4},
+      "moral_framing": {"favored_party": "Iran", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 4},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 4},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 4},
+    "summary": "US shoots down Iranian drones and strikes a control center, claiming self-defense. But Iran's actions are responses to US presence, so Iran is more sympathetic."
+  },
+  {
+    "event_id": 44,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Pakistan", "bloc": "global_south_nonaligned"},
+      {"name": "Qatar", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Talks in Switzerland aim to advance peace; both sides are negotiating, so I remain neutral."
+  },
+  {
+    "event_id": 45,
+    "actors": [
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Hamas", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Similar to article 41, an analysis piece; I remain neutral."
+  },
+  {
+    "event_id": 46,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israeli airstrikes kill six in Lebanon amid ceasefire tensions. Israel is the clear violator."
+  },
+  {
+    "event_id": 47,
+    "actors": [
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 4},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 4},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 3},
+    "summary": "Lebanon seeks talks to solidify ceasefire, but Israel continues attacks. Lebanon's diplomatic efforts are reasonable."
+  },
+  {
+    "event_id": 48,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Lebanon", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lebanon", "intensity": 5},
+      "moral_framing": {"favored_party": "Lebanon", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Lebanon", "intensity": 5},
+      "emotional_tone": {"favored_party": "Lebanon", "intensity": 5},
+      "factual_credibility": {"favored_party": "Lebanon", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lebanon", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "global_south_nonaligned", "intensity": 5},
+    "summary": "Israel continues to disregard the ceasefire, killing dozens daily. Lebanon's calls for a real ceasefire are fully justified."
+  },
+  {
+    "event_id": 49,
+    "actors": [
+      {"name": "Hezbollah", "bloc": "iran_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Hezbollah", "intensity": 4},
+      "moral_framing": {"favored_party": "Hezbollah", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Hezbollah", "intensity": 4},
+      "emotional_tone": {"favored_party": "Hezbollah", "intensity": 4},
+      "factual_credibility": {"favored_party": "Hezbollah", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Hezbollah", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 3},
+    "summary": "Hezbollah accuses US of enabling Israeli aggression and rejects ceasefire that allows Israeli freedom. Its position aligns with resistance against occupation."
+  },
+  {
+    "event_id": 50,
+    "actors": [
+      {"name": "United Nations", "bloc": "intl_organization"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 3},
+      "moral_framing": {"favored_party": "Iran", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 3},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 3},
+      "factual_credibility": {"favored_party": "Iran", "intensity": 2},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "multipolar", "intensity": 3},
+    "summary": "UN chief calls for end to violations and reopening of Hormuz. The US-Iran conflict is destabilizing, but both sides share blame; however, US strikes appear more aggressive."
+  },
+  {
+    "event_id": 51,
+    "actors": [
+      {"name": "United Nations", "bloc": "intl_organization"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "United Nations", "intensity": 2},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 2},
+    "summary": "UN chief calls for ending ceasefire violations and reopening Hormuz to mitigate global economic harm. Urges political solution amid persistent mistrust."
+  },
+  {
+    "event_id": 51,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Ukrainian soldier exploited his position to extort $12,000 from a colleague for allegedly influencing a medical board decision, which constitutes corruption and abuse of power. This is a clear case of individual wrongdoing within Ukraine's military, undermining its integrity during wartime. The event reflects negatively on the soldier's actions, but the system is taking legal action against him."
+  },
+  {
+    "event_id": 52,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Russian drone attack in the Sadivska community wounded four civilians, including elderly individuals, which is a direct attack on non-combatants. Such actions are a clear violation of international humanitarian law and serve no military purpose other than terrorizing the population. The blame for this indiscriminate violence lies entirely with Russia."
+  },
+  {
+    "event_id": 53,
+    "actors": [
+      {"name": "Hungary", "bloc": "western_nato_aligned"},
+      {"name": "European Union", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "European Union", "intensity": 2},
+      "perceived_legitimacy": {"favored_party": "European Union", "intensity": 3},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "European Union", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Hungary's parliament passed a law to radically reform its state media system, effectively dissolving the current public broadcaster to create new, supposedly independent structures. While the stated goal is to eliminate political control by the previous government, the lack of public consultation and the rushed nature of the reform raise concerns about its true motive. Overall, it seems like a political power play to reshape the media landscape."
+  },
+  {
+    "event_id": 54,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Emergency power outages in Odesa Oblast are a direct result of damage to energy infrastructure from prior Russian attacks, compounded by increased consumption during a heatwave. Russia's deliberate targeting of civilian infrastructure is the root cause of this hardship for civilians. The Ukrainian authorities are implementing necessary measures to prevent a larger collapse of the grid."
+  },
+  {
+    "event_id": 55,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Russian soldier shot at a civilian car marked \"Children\" in the Chernihiv region, killing a 27-year-old passenger and injuring his father, after they had already stopped. This was a cold-blooded execution of civilians attempting to evacuate, and the perpetrators then lied about the cause. This act is a quintessential war crime, revealing the callousness of Russian forces towards unarmed Ukrainians."
+  },
+  {
+    "event_id": 56,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "An unexploded 500kg FAB-500 aerial bomb was found in Zaporizhzhia near residential buildings, a direct consequence of a Russian attack. The fact that such a large and dangerous explosive was left in a civilian area highlights the indiscriminate nature of Russia's campaign and the ongoing threat to civilians. Ukrainian emergency services handled the situation professionally, averting a potential catastrophe."
+  },
+  {
+    "event_id": 57,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Russian drone attack in Kherson's Dniprovskyi district wounded a 43-year-old man walking down the street, causing an open fracture and shrapnel injuries. This is yet another example of Russian forces targeting civilians going about their daily lives. The attack is unjustifiable and demonstrates a pattern of terror against the city's inhabitants."
+  },
+  {
+    "event_id": 58,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Russian FPV drone struck a civilian car evacuating people from the frontline area in Druzhkivka, wounding four people, including a 50-year-old driver and elderly passengers. Targeting a vehicle that was clearly engaged in a humanitarian mission is a cynical and deliberate act of violence against non-combatants. Russia is directly responsible for these injuries."
+  },
+  {
+    "event_id": 59,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Ukrainian Forces struck eight electrical substations and a gas compressor station in occupied Crimea, a legitimate military target supporting the Russian war effort and occupation. This action is a justifiable effort to degrade the occupier's logistics and military infrastructure. The reported panic among occupation administrations suggests the strikes are effective."
+  },
+  {
+    "event_id": 60,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Reports from a partisan group indicate that Russian occupation administrations in Crimea received orders to evacuate documents and not show up for work, amid fears of Ukrainian strikes. This suggests a high degree of vulnerability and panic within the Russian command structure. The Ukrainian military operations are clearly pressuring the occupation regime, even if some of the information comes from partisan sources."
+  },
+  {
+    "event_id": 61,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A strike on three electrical substations in Belgorod, Russia, caused a significant power and water outage across eight districts, indicating a successful operation against the country's energy infrastructure. While Russia claims its air defense intercepted many drones, the reported fires and widespread blackouts suggest otherwise. This is a direct response to Russia's own attacks on Ukraine's energy grid and is a legitimate act of self-defense."
+  },
+  {
+    "event_id": 62,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Ukrainian man was detained for preparing a sabotage attack on a defense plant, acting on orders from a Russian handler, which constitutes a serious act of betrayal and collaboration. This is a direct attack on Ukraine's security and its ability to defend itself. The Russian mastermind is ultimately responsible for this attempt to undermine Ukraine from within."
+  },
+  {
+    "event_id": 63,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Two Russian soldiers are being prosecuted for the murder of a 69-year-old civilian in Bucha in 2022, which is a belated but crucial step towards justice for the atrocities committed there. The fact that they shot a civilian in cold blood and then tried to cover it up is a horrific war crime. This legal process is essential for accountability, even if in absentia."
+  },
+  {
+    "event_id": 64,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Russian drone strike destroyed the roof and damaged the book collection of a library in Pushkari, a village on the Chernihiv border, which is a clear attack on cultural property. This is a deliberate act to destroy Ukrainian cultural heritage and education. The attack serves no legitimate military purpose and is a form of cultural genocide."
+  },
+  {
+    "event_id": 65,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Russian forces attacked 13 settlements in Chernihiv region using drones, artillery, and mortars, demonstrating a continued pattern of terror against border communities. This is a deliberate campaign to destabilize the region and disrupt civilian life. The variety of weapons used indicates a systematic approach to wearing down Ukrainian defenses and causing civilian casualties."
+  },
+  {
+    "event_id": 66,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Ukrainian journalist, Iryna Levchenko, is being transferred from a Crimean pre-trial detention facility to Rostov-on-Don, having been held for over three years without formal charges. This is a blatant violation of her rights and a form of state-sponsored hostage-taking. Russia's actions are an attempt to silence a free voice and are condemnable in the strongest terms."
+  },
+  {
+    "event_id": 67,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Russia is reportedly preparing a potential offensive on the Chernihiv region from Bryansk Oblast, which would be a dangerous escalation. While this might be an attempt to tie down Ukrainian forces, it is a clear threat that Ukraine must take seriously. The very possibility of a renewed offensive shows Russia's intent to continue its war of aggression."
+  },
+  {
+    "event_id": 68,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Almost 20 hectares of land, including wheat fields, burned in Kherson due to six fires caused by Russian attacks, which is a dual tragedy for the environment and the local economy. The deliberate targeting of agricultural land is an act of economic warfare against Ukraine's food security. Russia's actions are designed to ruin livelihoods and create a humanitarian crisis."
+  },
+  {
+    "event_id": 69,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A resident of occupied Melitopol has been charged with collaborating with the occupiers after he agreed to head a university set up by Russia, demonstrating a conscious choice to support the occupation regime. He is also accused of transferring Ukrainian land to the occupiers, causing significant material damage. This is a clear case of treason, and the legal process against him is justified."
+  },
+  {
+    "event_id": 70,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "The court in the case of Vyacheslav Zinchenko, accused of murdering Iryna Farion, suspended his previous lawyer's authority due to a procedural issue regarding her license, and appointed a new state attorney. This is a routine legal process to ensure the defendant's right to legal counsel, though the outcome depends on the evidence and the new lawyer's competence."
+  },
+  {
+    "event_id": 71,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Explosions in occupied Mariupol followed reports of a Ukrainian drone attack, leading to power outages and a fuel fire, which shows the vulnerability of Russia's occupation infrastructure. This is a successful strike on a military logistics point and demonstrates Ukraine's ability to hit deep behind enemy lines. The response is legitimate, as Mariupol is a part of Ukraine."
+  },
+  {
+    "event_id": 72,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "A study by the UN Development Programme suggests that nearly 3.5 million tons of waste from destroyed buildings in Kharkiv could be recycled into building materials, presenting a practical and sustainable solution for reconstruction. This is a positive and proactive approach to a massive problem, focusing on environmental responsibility and resource efficiency."
+  },
+  {
+    "event_id": 73,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Ombudsman representatives are monitoring court hearings in the Farion murder case to ensure due process, which is a standard procedure to protect the rights of all parties involved. This is a neutral, procedural step to maintain confidence in the judiciary and prevent any potential human rights violations. The outcome of the trial is entirely up to the court."
+  },
+  {
+    "event_id": 74,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "The occupation authorities in Crimea have suspended commuter train services to Yevpatoria and Dzhankoy, likely due to a fear of Ukrainian strikes after recent successful operations. This disruption to civilian life is a direct consequence of the military pressure Ukraine is applying to the occupied region. Russia's inability to maintain normal operations shows its weak grip on the territory."
+  },
+  {
+    "event_id": 75,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Combat operations and shelling by Russia have led to power outages in six Ukrainian regions, with the most severe situation in Donetsk, demonstrating the continued toll of the war on civilian infrastructure. This is a direct result of Russia's targeting of energy facilities, designed to create hardship for the population. Ukraine's energy workers are performing heroic work to restore power."
+  },
+  {
+    "event_id": 76,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "The Minister of Economy stated that there is no fuel shortage in Ukraine, and the market is operating smoothly, which is a positive sign of resilience in the face of potential supply chain disruptions. This is an official statement aimed at maintaining public confidence and economic stability. The measures being taken are preventive and show a proactive approach to governance."
+  },
+  {
+    "event_id": 77,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Poland", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 2},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 2},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 2},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 2},
+    "summary": "Foreign Minister Sybiga is meeting his Polish counterpart Sikorski in Warsaw against a backdrop of recent diplomatic tension caused by President Zelensky's decree naming a brigade after the UPA. This is a necessary step to try and repair the relationship, as maintaining strong ties with Poland is crucial. While Ukraine's action might have been insensitive, a diplomatic solution is preferable to a complete breakdown in relations."
+  },
+  {
+    "event_id": 78,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "The aftermath of a massive Russian attack on Kyiv is featured, with ongoing rescue operations and a death toll of at least 30, while Ukraine appeals for Patriot missiles to defend its skies. The White House claims Trump remains optimistic about peace, which seems disconnected from the reality of the ongoing bloodshed. Russia is committing atrocities, and the US response, while showing support, needs to translate into more decisive military aid."
+  },
+  {
+    "event_id": 79,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "The High Anti-Corruption Court is choosing a pre-trial restraint for MP Mykola Tyshchenko, who is suspected of extorting $1 million and making a false declaration. This is a high-profile case involving a public official, and the court's decision on detention with a large bail option is a reasonable step. The allegations are serious, and the judicial process must proceed without political interference."
+  },
+  {
+    "event_id": 80,
+    "actors": [
+      {"name": "Moldova", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Moldovan Prime Minister Alexandru Munteanu resigned, leading to the automatic dissolution of the government, which is a standard constitutional procedure. This is a domestic political event that will be resolved through the usual processes of consultations and the formation of a new government. The reasons cited are personal principles, but the full context of his departure is not yet known."
+  },
+  {
+    "event_id": 81,
+    "actors": [
+      {"name": "Poland", "bloc": "western_nato_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "European Union", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 3},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 2},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 2},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 3},
+    "summary": "Poland is pushing to include the issue of the Volhynia tragedy in the EU progress report on Ukraine, linking it to the naming of a brigade after the UPA, which places Ukraine in a difficult position. While Poland's historical grievances are legitimate, using them to slow down Ukraine's EU integration process is unhelpful and risks causing more damage to their bilateral relations. Ukraine should acknowledge the tragedy, but the focus should remain on its ongoing existential struggle."
+  },
+  {
+    "event_id": 82,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Ukrainian air defense systems shot down one missile and 82 out of 105 Russian drones and missiles in a large-scale night attack, demonstrating their effectiveness despite the massive assault. Russia continues its campaign of terror with a high volume of launched munitions, showing its disregard for civilian life and its desire to overwhelm Ukrainian defenses. The successful interception rate is commendable."
+  },
+  {
+    "event_id": 83,
+    "actors": [
+      {"name": "Lithuania", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "NATO", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Lithuania", "intensity": 3},
+      "moral_framing": {"favored_party": "Lithuania", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Lithuania", "intensity": 4},
+      "emotional_tone": {"favored_party": "Lithuania", "intensity": 2},
+      "factual_credibility": {"favored_party": "Lithuania", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Lithuania", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 3},
+    "summary": "Lithuania's President Nausėda announced that almost all parliamentary factions support amending the constitution to allow the stationing of nuclear weapons, a necessary step to remove self-imposed limitations for NATO collective defense. This is a wise and responsible decision in the face of a direct Russian threat, as it closes a security gap and strengthens the Eastern flank. It's a clear signal to Russia that its aggression will not be tolerated."
+  },
+  {
+    "event_id": 84,
+    "actors": [
+      {"name": "Sweden", "bloc": "western_nato_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Sweden", "intensity": 3},
+      "moral_framing": {"favored_party": "Sweden", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Sweden", "intensity": 4},
+      "emotional_tone": {"favored_party": "Sweden", "intensity": 3},
+      "factual_credibility": {"favored_party": "Sweden", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Sweden", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Sweden has officially adopted Ukrainian-language spellings for Ukrainian cities like Kyiv, Odesa, and Donbas, which is a significant act of support for Ukraine's national identity and a rejection of Russian imperial influences. This move is both symbolic and practical, correcting a historical error and showing solidarity. It demonstrates a deep respect for Ukraine's sovereignty and cultural self-determination."
+  },
+  {
+    "event_id": 85,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Despite a massive Russian attack on Kyiv, the White House stated that President Trump remains optimistic about a peace deal, a sentiment that seems out of touch with the reality of Russian aggression and the suffering of Ukrainian civilians. While hope for peace is important, optimism without concrete action to stop the attacker is insufficient. Russia's actions show it is not interested in peace, but in conquest."
+  },
+  {
+    "event_id": 86,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Ukraine's Defense Minister Fedorov has appealed to nearly 40 partner countries to urgently transfer Patriot missiles, highlighting the acute shortage of air defense systems exposed by the massive Russian attack. This is a critical and desperate call for help, as the lives of Ukrainian citizens depend on these systems. The fact that he has to make this plea shows the continued failure of the international community to provide the tools Ukraine needs to survive."
+  },
+  {
+    "event_id": 87,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Sweden", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Sweden", "intensity": 4},
+      "moral_framing": {"favored_party": "Sweden", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Sweden", "intensity": 4},
+      "emotional_tone": {"favored_party": "Sweden", "intensity": 3},
+      "factual_credibility": {"favored_party": "Sweden", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Sweden", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Russia's foreign ministry summoned the Swedish ambassador over an incident where drones were used to drop paint and a dummy explosive on the Russian embassy in Stockholm, labeling it a \"provocation.\" While the act of vandalism is illegal, Russia's self-righteous indignation is hypocritical given its own systematic attacks on diplomatic and civilian targets. Sweden's obligation is to investigate, but Russia's victim-playing is disingenuous."
+  },
+  {
+    "event_id": 88,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A Russian attack on Kyiv killed 25 people, with rescue efforts still underway, as a Ukrainian official called for more Patriot systems, while President Zelensky visited the site and claimed Putin is \"destroying the civilian population.\" This event clearly shows that Russia is committing war crimes by targeting residential areas. The international community's failure to provide sufficient air defense is enabling these deaths."
+  },
+  {
+    "event_id": 89,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "NATO", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 3},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Ukraine is pushing for financial guarantees for its defense support in the NATO summit declaration, seeking to secure concrete funding for its military needs rather than just vague promises. This is a smart diplomatic move to ensure continued support, focusing on cash for domestic production and crucial supplies. The alliance needs to move beyond general statements to binding financial commitments."
+  },
+  {
+    "event_id": 90,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "President Zelensky visited the site of a Russian strike in Kyiv and stated that Putin is \"destroying the civilian population\" to \"intimidate people,\" a clear and accurate assessment of Russia's terrorist tactics. He also criticized partners for insufficient support, a justified complaint given the ongoing dearth of air defense. His remarks are a raw and truthful account of the situation on the ground."
+  },
+  {
+    "event_id": 91,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "European Union", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "President Zelensky stated that there is a deficit of anti-ballistic systems, such as Patriot, following a massive Russian attack, and urged the US and European partners to be more active in providing them. This is a clear and pressing call for help, highlighting a critical vulnerability that is costing lives. He is right to pressure NATO partners, as their indecision is a direct factor in the casualties."
+  },
+  {
+    "event_id": 92,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "The government simplified conditions for medical workers in frontline areas to receive service housing, including purchasing apartments for doctors from occupied territories, which is a practical step to address critical staffing shortages. This policy is designed to support essential personnel and ensure continued access to healthcare in dangerous regions. It is a necessary and sensible social policy."
+  },
+  {
+    "event_id": 93,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "President Zelensky confirmed that US representatives Witkoff and Kushner have been in contact with Ukraine, indicating ongoing diplomatic engagement despite the difficult peace negotiations. He hopes to meet Trump at the NATO summit, which shows a commitment to keeping communication channels open. This is a positive sign of continued US involvement, even if immediate results are elusive."
+  },
+  {
+    "event_id": 94,
+    "actors": [
+      {"name": "France", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "France", "intensity": 4},
+      "moral_framing": {"favored_party": "France", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "France", "intensity": 5},
+      "emotional_tone": {"favored_party": "France", "intensity": 3},
+      "factual_credibility": {"favored_party": "France", "intensity": 5},
+      "motivation_attribution": {"favored_party": "France", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "France has fined the owner of a Russian shadow fleet tanker, Tagor, €1 million for failing to fly a flag and refusing to comply with orders, demonstrating a strong commitment to enforcing sanctions. This action is a direct hit against Russia's illicit oil trade and sends a clear message that violations of international law will be punished. It is a commendable and effective measure."
+  },
+  {
+    "event_id": 95,
+    "actors": [
+      {"name": "Germany", "bloc": "western_nato_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "German Defense Minister Pistorius stated that the war in Ukraine has entered a \"potentially decisive phase\" and needs funding for weapons production, acknowledging the critical nature of the conflict. His personal admission of making food and water provisions shows a level of seriousness that is needed in Europe. His assessment is accurate, and this urgency must be matched by concrete action."
+  },
+  {
+    "event_id": 96,
+    "actors": [
+      {"name": "Estonia", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Belarus", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Estonia", "intensity": 4},
+      "moral_framing": {"favored_party": "Estonia", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Estonia", "intensity": 4},
+      "emotional_tone": {"favored_party": "Estonia", "intensity": 3},
+      "factual_credibility": {"favored_party": "Estonia", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Estonia", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 3},
+    "summary": "Estonia's government has approved a bill to ban Russian and Belarusian citizens from buying real estate, with limited exceptions, to protect its public order and security. This is a legitimate measure to counter potential threats and foreign influence, especially given the actions of these neighboring states. While it may seem restrictive, it is a reasonable and prudent security measure for a frontline state."
+  },
+  {
+    "event_id": 97,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "United Kingdom", "bloc": "western_nato_aligned"},
+      {"name": "European Union", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "United Kingdom", "intensity": 4},
+      "moral_framing": {"favored_party": "United Kingdom", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "United Kingdom", "intensity": 4},
+      "emotional_tone": {"favored_party": "United Kingdom", "intensity": 3},
+      "factual_credibility": {"favored_party": "United Kingdom", "intensity": 4},
+      "motivation_attribution": {"favored_party": "United Kingdom", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Russia has been using drones launched from shadow fleet vessels to spy on nuclear facilities across Europe, which is a highly dangerous and provocative act of espionage against critical infrastructure. This reveals a systematic campaign to gather intelligence for potential sabotage or coercion, and it was only stopped when countries started arresting these vessels. This is a direct threat to European security."
+  },
+  {
+    "event_id": 98,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Poland", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 5},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "The SBU and Polish police have uncovered a group of 11 people, organized by Russia, who were paid to stage anti-Ukrainian protests in Poland, which is a clear act of information warfare. These provocateurs were paid $100-$200 to spread disinformation and damage Ukraine's reputation. This is a classic example of Russia's hybrid warfare, and the joint investigation is a great example of international cooperation to counter it."
+  },
+  {
+    "event_id": 99,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "British intelligence suggests Russia may cancel its Navy Day parade in St. Petersburg for the second year due to security concerns after a Ukrainian drone hit a frigate, which shows a pragmatic but belated recognition of vulnerabilities. This cancellation is a direct result of Ukraine's successful strikes against their fleet. This event reflects the deteriorating security situation inside Russia itself, a direct consequence of its invasion."
+  },
+  {
+    "event_id": 100,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Ukrzaliznytsia reported numerous train delays in Sumy and Kharkiv regions due to drone activity, highlighting the ongoing disruption to civilian life and infrastructure caused by the war. The situation is impacting essential travel and logistics. While it is a nuisance for passengers, it is a direct result of the security threat from Russian drones."
+  },
+  {
+    "event_id": 101,
+    "actors": [
+      {"name": "United Kingdom", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "United Kingdom", "intensity": 2},
+      "moral_framing": {"favored_party": "Russia", "intensity": 1},
+      "perceived_legitimacy": {"favored_party": "Russia", "intensity": 1},
+      "emotional_tone": {"favored_party": "Russia", "intensity": 1},
+      "factual_credibility": {"favored_party": "Russia", "intensity": 2},
+      "motivation_attribution": {"favored_party": "Russia", "intensity": 2}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "British politicians called for removal of a Russian cartoon, citing propaganda concerns; the studio denied state funding. The request appears exaggerated and politically motivated, with little evidence of actual harmful content, so I view the UK's action as overreach."
+  },
+  {
+    "event_id": 102,
+    "actors": [
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 3},
+      "moral_framing": {"favored_party": "Iran", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 3},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 3},
+      "factual_credibility": {"favored_party": "United States", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 2},
+    "summary": "Israel allegedly planned assassination of Iranian negotiators during US-Iran talks. This would undermine diplomacy and is a reckless act; the US reportedly warned Israel and Iran. I side with Iran as the victim of a destabilizing plot."
+  },
+  {
+    "event_id": 103,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Ukraine struck Belgorod, causing a civilian death and infrastructure damage. While civilian casualties are tragic, this is a legitimate military target in response to Russia's invasion; Russia's aggression is the root cause, so I attribute blame to Russia."
+  },
+  {
+    "event_id": 104,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Russian massive strike on Kyiv killed 30 civilians and destroyed residential buildings. This is a clear war crime targeting civilians; Ukraine is the victim of unprovoked aggression, so I strongly side with Ukraine and condemn Russia."
+  },
+  {
+    "event_id": 105,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "United States", "intensity": 2},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "United States", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Russia", "intensity": 2}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 3},
+    "summary": "The 'Spirit of Anchorage' was a propaganda construct used by Russia to claim US approval for its terms; in reality no agreement existed. Russia misrepresented the talks to manipulate public opinion, while the US maintained transparency. I blame Russia for dishonesty."
+  },
+  {
+    "event_id": 106,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Russia will send extra fuel to Kaliningrad due to shortages caused by Ukrainian drone strikes on refineries. This is a routine logistical response; no major moral or blame issue, simply a consequence of ongoing conflict."
+  },
+  {
+    "event_id": 107,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Zelensky stated that only capturing Moscow (not Crimea) would force Putin to stop the war, and dismissed Putin's claims about Crimea. This is a firm Ukrainian position, rejecting Russian territorial claims; I find Ukraine's stance legitimate and Russia's aggression unjust."
+  },
+  {
+    "event_id": 108,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Russian strike on Kyiv killed 30 and injured many, with residential buildings hit. This is a deliberate attack on civilians; Ukraine is the victim, and I strongly condemn Russia's actions."
+  },
+  {
+    "event_id": 109,
+    "actors": [
+      {"name": "Belarus", "bloc": "russia_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "China", "bloc": "china_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Belarus", "intensity": 2},
+      "moral_framing": {"favored_party": "United States", "intensity": 2},
+      "perceived_legitimacy": {"favored_party": "Belarus", "intensity": 1},
+      "emotional_tone": {"favored_party": "Belarus", "intensity": 1},
+      "factual_credibility": {"favored_party": "United States", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Belarus", "intensity": 2}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 1},
+    "summary": "Lukashenko pardoned 32 political prisoners, but they remain in Belarus with restrictions. This is a performative gesture rather than genuine reform; the regime's repression continues. I view this as a cynical move to manage international criticism."
+  },
+  {
+    "event_id": 110,
+    "actors": [
+      {"name": "Iran", "bloc": "iran_aligned"},
+      {"name": "Israel", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Iran", "intensity": 3},
+      "moral_framing": {"favored_party": "Iran", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Iran", "intensity": 3},
+      "emotional_tone": {"favored_party": "Iran", "intensity": 3},
+      "factual_credibility": {"favored_party": "United States", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Iran", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 2},
+    "summary": "Funeral of killed Iranian leader Khamenei is a major event; the regime uses it for mobilization. The killing by US/Israel was an act of war, and while Iran is a repressive regime, this assassination undermines stability. I lean toward Iran as victim of external aggression."
+  },
+  {
+    "event_id": 111,
+    "actors": [
+      {"name": "European Union", "bloc": "western_nato_aligned"},
+      {"name": "United Kingdom", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "European Union", "intensity": 2},
+      "moral_framing": {"favored_party": "European Union", "intensity": 1},
+      "perceived_legitimacy": {"favored_party": "United Kingdom", "intensity": 2},
+      "emotional_tone": {"favored_party": "United Kingdom", "intensity": 2},
+      "factual_credibility": {"favored_party": "United Kingdom", "intensity": 3},
+      "motivation_attribution": {"favored_party": "European Union", "intensity": 2}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "New EU entry/exit system causes chaos and delays, frustrating travelers. The EU's intention is security but poor implementation harms travelers; I see both sides as understandable, no major blame."
+  },
+  {
+    "event_id": 112,
+    "actors": [
+      {"name": "Kyrgyzstan", "bloc": "global_south_nonaligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Ex-security chief of Kyrgyzstan sentenced for coup attempt but avoids prison. This appears to be a politically motivated case against a former ally, but without further context, I remain neutral on the internal affair."
+  },
+  {
+    "event_id": 113,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Ukraine struck Russian space communication centers to disrupt military communications. This is a legitimate military target in self-defense; Russia's invasion justifies such strikes, so I support Ukraine."
+  },
+  {
+    "event_id": 114,
+    "actors": [
+      {"name": "Belarus", "bloc": "russia_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "China", "bloc": "china_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 3},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 3},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 1},
+    "summary": "Lukashenko's trips to Russia and China suggest balancing; he avoids direct involvement in war but faces pressure. I see Russia as trying to drag Belarus in, while Lukashenko seeks to avoid it; I view Ukraine's concerns as legitimate."
+  },
+  {
+    "event_id": 115,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "A former Russian serviceman threatened Putin with mutiny and was arrested. The arrest appears to be suppression of dissent; his grievances about the war are likely valid, so I side with him against the repressive regime."
+  },
+  {
+    "event_id": 116,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "United Kingdom", "bloc": "western_nato_aligned"},
+      {"name": "European Union", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "United Kingdom", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "United Kingdom", "intensity": 3},
+      "emotional_tone": {"favored_party": "United Kingdom", "intensity": 2},
+      "factual_credibility": {"favored_party": "United Kingdom", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Russia", "intensity": 2}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 3},
+    "summary": "Two Russian theater directors diverged: one left Russia, one stayed and supported the regime. The regime's repression and war have forced artists to choose; I respect the one who left for freedom and condemn the pressure on intellectuals."
+  },
+  {
+    "event_id": 117,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Russian military reports falsely claim advances; reality shows no progress and even retreats. This is deliberate misinformation to cover failures; Ukraine is correctly resisting, so I side with Ukraine and condemn Russian deception."
+  },
+  {
+    "event_id": 118,
+    "actors": [
+      {"name": "Syria", "bloc": "iran_aligned"},
+      {"name": "United Nations", "bloc": "intl_organization"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Syria's interim president appoints deputies, but the process faces criticism for lack of inclusion. This is a transitional political step; I have no strong opinion as it's an internal matter."
+  },
+  {
+    "event_id": 119,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Russia's massive missile and drone strike on Kyiv killed 30 and injured many, hitting residential areas. This is a war crime; I strongly condemn Russia and support Ukraine's right to defend itself."
+  },
+  {
+    "event_id": 120,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Ukraine uses AI-enabled drones to strike Russian logistics, forcing Russia to adapt. This is effective self-defense; Russia's attempts at camouflage are inadequate. I support Ukraine's technological edge in defending itself."
+  },
+  {
+    "event_id": 121,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "A former marine in Russia arrested for treason; details unknown. Without more information, I cannot assign blame; this is an internal security matter."
+  },
+  {
+    "event_id": 122,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Journalist Raevsky charged for failing to register as foreign agent; this is part of Russia's crackdown on dissent. I view this as repression of free speech, and side with the journalist against the authoritarian state."
+  },
+  {
+    "event_id": 123,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 3},
+      "moral_framing": {"favored_party": "Russia", "intensity": 1},
+      "perceived_legitimacy": {"favored_party": "Russia", "intensity": 1},
+      "emotional_tone": {"favored_party": "Russia", "intensity": 1},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Russia", "intensity": 2}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Car bomb in Kursk region wounds local official; Ukraine is suspected but not confirmed. Without clear evidence, I cannot assign blame; it's an incident in a war zone."
+  },
+  {
+    "event_id": 124,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Ukraine struck Belgorod again, causing power outages and a civilian death. While civilian harm is regrettable, it's a response to Russia's ongoing attacks; I attribute ultimate blame to Russia for starting the war."
+  },
+  {
+    "event_id": 125,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Editor fined for mentioning Morgenstern without 'foreign agent' label. This is a bureaucratic enforcement; I see it as overreach but not a major geopolitical event."
+  },
+  {
+    "event_id": 126,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Kaluga man sentenced for comments about Hamas and Putin; this is a case of excessive punishment for speech, but not central to international conflict."
+  },
+  {
+    "event_id": 127,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Kyiv strike death toll rises to 30; residential areas hit. Russia's attack is indiscriminate; I condemn it strongly and support Ukraine."
+  },
+  {
+    "event_id": 128,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Volgograd man sentenced for spying for Ukraine. This is part of Russia's crackdown; I view Ukraine's intelligence gathering as legitimate in self-defense, so I side with Ukraine."
+  },
+  {
+    "event_id": 129,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Muslim official fined for historical paintings; this seems like administrative overreach, not a major geopolitical issue."
+  },
+  {
+    "event_id": 130,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Passenger fined for insulting Putin in Telegram; this is another case of repression, but not a central event."
+  },
+  {
+    "event_id": 131,
+    "actors": [
+      {"name": "Germany", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Germany", "intensity": 2},
+      "moral_framing": {"favored_party": "Russia", "intensity": 1},
+      "perceived_legitimacy": {"favored_party": "Germany", "intensity": 2},
+      "emotional_tone": {"favored_party": "Russia", "intensity": 1},
+      "factual_credibility": {"favored_party": "Germany", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Germany", "intensity": 2}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Germany lifts sanctions on yacht Dilbar linked to Usmanov; legal grounds weak. This is a legal decision; I have no strong view."
+  },
+  {
+    "event_id": 132,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Russia may have launched Kalibr missiles from port to avoid Black Sea risks. This shows Russian desperation; Ukraine's intelligence is credible, and I support Ukraine's defensive efforts."
+  },
+  {
+    "event_id": 133,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "European Union", "bloc": "western_nato_aligned"},
+      {"name": "G7", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "NBU head meets G7 and EU; support for Ukraine's central bank. This is routine diplomatic engagement; I view it positively as Ukraine's economic stability is important."
+  },
+  {
+    "event_id": 134,
+    "actors": [
+      {"name": "NATO", "bloc": "western_nato_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Italy", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Italy", "intensity": 2},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 3},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 2},
+    "summary": "NATO debates long-term aid to Ukraine; Italy hesitates. I support Ukraine and see Italy's reluctance as unhelpful; NATO should stand firm against Russian aggression."
+  },
+  {
+    "event_id": 135,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Poland", "bloc": "western_nato_aligned"},
+      {"name": "NATO", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Poland", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Poland", "intensity": 4},
+      "emotional_tone": {"favored_party": "Poland", "intensity": 4},
+      "factual_credibility": {"favored_party": "United States", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Poland", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 4},
+    "summary": "US warns Poland of possible Russian provocation; Russia may stage incident to test NATO. This is an aggressive Russian tactic; I support NATO and Poland's vigilance."
+  },
+  {
+    "event_id": 136,
+    "actors": [
+      {"name": "Poland", "bloc": "western_nato_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Poland", "intensity": 2},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 3},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 3},
+    "summary": "Poland will not transfer MiG-29s, citing Ukraine's failure to share drone tech. While Poland has its reasons, this is disappointing; Ukraine needs every asset, so I side with Ukraine's need for support."
+  },
+  {
+    "event_id": 137,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "NATO", "bloc": "western_nato_aligned"},
+      {"name": "European Union", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "NATO", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "NATO", "intensity": 4},
+      "emotional_tone": {"favored_party": "NATO", "intensity": 3},
+      "factual_credibility": {"favored_party": "NATO", "intensity": 3},
+      "motivation_attribution": {"favored_party": "NATO", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 4},
+    "summary": "Russia mapped NATO air defense gaps using drone incursions; this is a reconnaissance and intimidation tactic. I view Russia's actions as hostile, and NATO's need to respond is justified."
+  },
+  {
+    "event_id": 138,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "SBU opens case against Gerasimov for war crimes in Kyiv strike. This is a legitimate legal action against a commander responsible for atrocities; I support Ukraine's pursuit of justice."
+  },
+  {
+    "event_id": 139,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Monaco", "bloc": "other"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Monaco explosion linked to Ukrainian oligarch; suspect is Ukrainian woman. This is a criminal case with unclear motives; I lack information to assign blame."
+  },
+  {
+    "event_id": 140,
+    "actors": [
+      {"name": "Belarus", "bloc": "russia_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 3},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 3},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 1},
+    "summary": "Lukashenko avoids backing Kremlin's fake claim of Ukrainian attack on bus. This suggests Belarus is cautious; Russia is spreading disinformation, and I view Ukraine as not responsible."
+  },
+  {
+    "event_id": 141,
+    "actors": [
+      {"name": "Sweden", "bloc": "western_nato_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Sweden to provide Gripen jets with Meteor missiles, which can counter Russian bombers. This is crucial support for Ukraine; I strongly welcome it and condemn Russia's air campaign."
+  },
+  {
+    "event_id": 142,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Crimea not fully isolated but under pressure; Ukraine targets logistics. This is effective strategy; I support Ukraine's efforts to degrade Russian supply lines."
+  },
+  {
+    "event_id": 143,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Belgorod fire after strike; power outages. This is a military target; Ukraine's actions are justified as self-defense against Russian aggression."
+  },
+  {
+    "event_id": 144,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Ukraine", "intensity": 5},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 5},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 5},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 5},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 4},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 5}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 5},
+    "summary": "Putin won't stop war despite Ukrainian strikes; he lies about situation. I strongly condemn Russia's intransigence and support Ukraine's resistance."
+  },
+  {
+    "event_id": 145,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "NATO", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "western_aligned", "intensity": 2},
+    "summary": "Ukraine wants NATO to recognize its role as security contributor, not just aid recipient. This is a reasonable request given Ukraine's contribution to European security; I support it."
+  },
+  {
+    "event_id": 146,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 3},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 3},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 3},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 3},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 3}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 3},
+    "summary": "Russia reduced massive strikes in June possibly to stockpile; this is a tactical pause, not a de-escalation. I remain vigilant and support Ukraine's defense."
+  },
+  {
+    "event_id": 147,
+    "actors": [],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "Church holiday article - no geopolitical content, so I assign neutral."
+  },
+  {
+    "event_id": 148,
+    "actors": [
+      {"name": "NATO", "bloc": "western_nato_aligned"},
+      {"name": "United States", "bloc": "western_nato_aligned"},
+      {"name": "Sweden", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "none", "intensity": 0},
+      "moral_framing": {"favored_party": "none", "intensity": 0},
+      "perceived_legitimacy": {"favored_party": "none", "intensity": 0},
+      "emotional_tone": {"favored_party": "none", "intensity": 0},
+      "factual_credibility": {"favored_party": "none", "intensity": 0},
+      "motivation_attribution": {"favored_party": "none", "intensity": 0}
+    },
+    "geopolitical_perspective": {"label": "neutral_balanced", "intensity": 0},
+    "summary": "NATO to replace AWACS with Swedish GlobalEye; this is a procurement decision, not a geopolitical conflict."
+  },
+  {
+    "event_id": 149,
+    "actors": [
+      {"name": "Ukraine", "bloc": "western_nato_aligned"},
+      {"name": "Russia", "bloc": "russia_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Ukraine uses M2 Browning machine guns on robots to counter Russian drones and mines. This is innovative self-defense; I support Ukraine's adaptation."
+  },
+  {
+    "event_id": 150,
+    "actors": [
+      {"name": "Russia", "bloc": "russia_aligned"},
+      {"name": "Ukraine", "bloc": "western_nato_aligned"}
+    ],
+    "scores": {
+      "blame_attribution": {"favored_party": "Russia", "intensity": 4},
+      "moral_framing": {"favored_party": "Ukraine", "intensity": 4},
+      "perceived_legitimacy": {"favored_party": "Ukraine", "intensity": 4},
+      "emotional_tone": {"favored_party": "Ukraine", "intensity": 4},
+      "factual_credibility": {"favored_party": "Ukraine", "intensity": 3},
+      "motivation_attribution": {"favored_party": "Ukraine", "intensity": 4}
+    },
+    "geopolitical_perspective": {"label": "pro_ukraine", "intensity": 4},
+    "summary": "Crimea's military supplies under strain; Ukraine's strikes effective. This is a successful campaign to isolate the peninsula; I support Ukraine's efforts."
+  }
+]
+
+

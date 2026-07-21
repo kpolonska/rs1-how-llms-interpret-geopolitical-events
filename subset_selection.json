@@ -1,0 +1,459 @@
+{
+  "target": 45,
+  "n_selected": 45,
+  "conflict_distribution_full": {
+    "lebanon_ceasefire": 23,
+    "gaza_ceasefire": 19,
+    "ukraine_war": 82,
+    "other": 26
+  },
+  "per_conflict_target": {
+    "lebanon_ceasefire": 8,
+    "gaza_ceasefire": 8,
+    "ukraine_war": 21,
+    "other": 8
+  },
+  "strata_counts": {
+    "lebanon_ceasefire": {
+      "target": 8,
+      "high": 4,
+      "low": 4,
+      "forced": 3
+    },
+    "gaza_ceasefire": {
+      "target": 8,
+      "high": 4,
+      "low": 4,
+      "forced": 4
+    },
+    "ukraine_war": {
+      "target": 21,
+      "high": 10,
+      "low": 11,
+      "forced": 10
+    },
+    "other": {
+      "target": 8,
+      "high": 4,
+      "low": 4,
+      "forced": 2
+    }
+  },
+  "self_family_pairs": [
+    {
+      "judge": "anthropic/claude-opus-4.8",
+      "judged_model": "claude"
+    },
+    {
+      "judge": "openai/gpt-5.5",
+      "judged_model": "gpt-4.1"
+    }
+  ],
+  "data_notes": [
+    "claude: event_id normalized 1-based -> 0-based",
+    "deepseek: event_id normalized 1-based -> 0-based",
+    "deepseek: duplicate event_id(s) [50] deduped (kept first)",
+    "grok: event_id normalized 1-based -> 0-based"
+  ],
+  "events": {
+    "0": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 0.4,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "2": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 8.64,
+      "stratum": "high",
+      "reasons": [
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "7": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 0.56,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "8": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 5.76,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "13": {
+      "conflict": "other",
+      "disagreement": 9.84,
+      "stratum": "high",
+      "reasons": [
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "14": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 0.64,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "15": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 7.04,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "17": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 8.24,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "20": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 0.56,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "22": {
+      "conflict": "other",
+      "disagreement": 8,
+      "stratum": "high",
+      "reasons": [
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "28": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 3.36,
+      "stratum": "low",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "high_agreement"
+      ]
+    },
+    "31": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 11.04,
+      "stratum": "high",
+      "reasons": [
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "33": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 4.64,
+      "stratum": "low",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "high_agreement"
+      ]
+    },
+    "35": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 1.44,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "38": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 11.04,
+      "stratum": "high",
+      "reasons": [
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "39": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 11.76,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "40": {
+      "conflict": "gaza_ceasefire",
+      "disagreement": 1.44,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "46": {
+      "conflict": "lebanon_ceasefire",
+      "disagreement": 3.84,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "high_disagreement"
+      ]
+    },
+    "52": {
+      "conflict": "other",
+      "disagreement": 0,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "54": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.16,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "57": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.16,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "58": {
+      "conflict": "ukraine_war",
+      "disagreement": 11.44,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "59": {
+      "conflict": "ukraine_war",
+      "disagreement": 12.24,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "62": {
+      "conflict": "ukraine_war",
+      "disagreement": 0,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "66": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.4,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "68": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.4,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "73": {
+      "conflict": "ukraine_war",
+      "disagreement": 11.44,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "77": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.24,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "79": {
+      "conflict": "other",
+      "disagreement": 0,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "85": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.24,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "87": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.16,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "89": {
+      "conflict": "ukraine_war",
+      "disagreement": 0,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "90": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.24,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "93": {
+      "conflict": "ukraine_war",
+      "disagreement": 9.76,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "96": {
+      "conflict": "ukraine_war",
+      "disagreement": 11.76,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "97": {
+      "conflict": "ukraine_war",
+      "disagreement": 0.4,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "101": {
+      "conflict": "other",
+      "disagreement": 8.96,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "108": {
+      "conflict": "ukraine_war",
+      "disagreement": 5.76,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "109": {
+      "conflict": "other",
+      "disagreement": 3.36,
+      "stratum": "high",
+      "reasons": [
+        "declared_vs_revealed_frame_mismatch",
+        "high_disagreement"
+      ]
+    },
+    "113": {
+      "conflict": "ukraine_war",
+      "disagreement": 6.96,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "125": {
+      "conflict": "other",
+      "disagreement": 0,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "127": {
+      "conflict": "ukraine_war",
+      "disagreement": 13.04,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "129": {
+      "conflict": "other",
+      "disagreement": 0,
+      "stratum": "low",
+      "reasons": [
+        "high_agreement"
+      ]
+    },
+    "134": {
+      "conflict": "ukraine_war",
+      "disagreement": 16.24,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    },
+    "149": {
+      "conflict": "ukraine_war",
+      "disagreement": 9.44,
+      "stratum": "high",
+      "reasons": [
+        "llama_ukraine_sign_flip",
+        "within_conflict_sign_flip",
+        "high_disagreement"
+      ]
+    }
+  }
+}
